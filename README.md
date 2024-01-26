@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning data structues and algorithms, design patterns, design principles, and using EFCore to perform operations on the database.
 - 👯 I’m looking to collaborate on live projects with other software developers out there.
 - 💬 Ask me about c#, dotnet, design patterns
-- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmail@gmail.com)
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcuudeh@gmail.com)
 - ⚡ Fun fact:
 
 
