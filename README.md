@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**I am Ugochukwu Udeh** a tech enthusiast and software developer<br> who loves exploring the world of technology<br> building applications that helps improve the efficiency productivity and effectiveness of work.
+**I'm Ugochukwu Udeh** a tech enthusiast and software developer<br> who loves exploring the world of technology<br> building applications that helps improve the efficiency productivity and effectiveness of work.
 
 - 🔭 I’m currently working on building projects using c# and the dotnet framework.
 - 🌱 I’m currently learning data structues and algorithms, design patterns, design principles, and using EFCore to perform operations on the database.
