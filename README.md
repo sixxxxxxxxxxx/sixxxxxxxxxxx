@@ -4,7 +4,7 @@
 **I'm Ugochukwu Udeh** a tech enthusiast and software developer<br> who loves exploring the world of technology<br> building applications that helps improve the efficiency productivity and effectiveness of work.
 
 - 🔭 I’m currently working on building projects using c# and the dotnet framework.
-- 🌱 I’m currently learning data structues and algorithms, design patterns, design principles, and using EFCore to perform operations on the database.
+- 🌱 I’m currently learning data structues, algorithms, design patterns and design principles.
 - 👯 I’m looking to collaborate on live projects with other software developers out there.
 - 💬 Ask me about c#, dotnet, design patterns
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcuudeh@gmail.com)
