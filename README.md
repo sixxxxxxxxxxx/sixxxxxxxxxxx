@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on live projects with other software developers out there.
 - 💬 Ask me about c#, dotnet, design patterns
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcuudeh@gmail.com)
-- ⚡ Fun fact: When i'm not coding, I'm probably on a hill hiking 
+- ⚡ Fun fact: When i'm not coding, I'm probably hiking 
 
 
 
